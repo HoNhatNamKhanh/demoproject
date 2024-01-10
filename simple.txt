@@ -1,5 +1,2 @@
- HEAD
 Simple for Issue2
 
-Sample for issue1 
- master
