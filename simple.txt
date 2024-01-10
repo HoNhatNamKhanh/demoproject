@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+Simple for Issue2
+
+>>>>>>> issue2
